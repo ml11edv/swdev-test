@@ -18,6 +18,8 @@ public class JavaApplication24 {
         
         System.out.println("Hello world!");
         
+        
+        
     }
     
 }
